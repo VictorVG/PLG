@@ -29,11 +29,13 @@
 -- History:
 --
 -- Initial release
--- v1.0, VictorVG, 08.16.2019 22:53:34 +0300
+-- v1.0, VictorVG, 16.08.2019 22:53:34 +0300
 -- Refactoring
--- v1.1, VictorVG, 08.16.2019 22:53:34 +0300
+-- v1.1, VictorVG, 16.08.2019 22:53:34 +0300
 -- Refactoring
--- v1.2, VictorVG, 08/17/2019 06:16:44 +0300
+-- v1.2, VictorVG, 17.08.2019 06:16:44 +0300
+-- History - date fix typo
+-- v1.2.0.1, VictorVG, 18.08.2019 12:11:55 +0300
  
 local function PlugVer(plg,mod,fmt)
 local Info,PVer,A,P
